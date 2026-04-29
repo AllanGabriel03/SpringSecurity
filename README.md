@@ -1,4 +1,4 @@
-# 🔐 Spring Security + JWT — Autenticação de Usuários
+#  Spring Security + JWT — Autenticação de Usuários
 
 ![Java](https://img.shields.io/badge/Java-17+-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -9,7 +9,7 @@
 
 ---
 
-## 📋 Índice
+##  Índice
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Funcionalidades](#-funcionalidades)
@@ -22,13 +22,13 @@
 
 ---
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Este projeto foi desenvolvido com o objetivo de aprender e praticar os conceitos de segurança em aplicações Java com **Spring Security**. A aplicação implementa um fluxo completo de autenticação de usuários utilizando **JWT**, garantindo que os endpoints sejam protegidos e acessíveis apenas por usuários autenticados.
 
 ---
 
-## ✅ Funcionalidades
+##  Funcionalidades
 
 - [x] Cadastro de usuário
 - [x] Login com geração de token JWT
@@ -38,7 +38,7 @@ Este projeto foi desenvolvido com o objetivo de aprender e praticar os conceitos
 
 ---
 
-## 🛠 Tecnologias
+##  Tecnologias
 
 | Tecnologia       | Versão  |
 |------------------|---------|
@@ -52,7 +52,7 @@ Este projeto foi desenvolvido com o objetivo de aprender e praticar os conceitos
 
 ---
 
-## 🚀 Como Executar
+##  Como Executar
 
 ### Pré-requisitos
 
@@ -76,16 +76,16 @@ A aplicação estará disponível em: `http://localhost:8080`
 
 ---
 
-## 📡 Endpoints da API
+##  Endpoints da API
 
-### 🔓 Públicos (não requerem autenticação)
+###  Públicos (não requerem autenticação)
 
 | Método | Endpoint          | Descrição              |
 |--------|-------------------|------------------------|
 | POST   | `/auth/register`  | Cadastro de usuário    |
 | POST   | `/auth/login`     | Login e geração do JWT |
 
-### 🔒 Protegidos (requerem Bearer Token)
+###  Protegidos (requerem Bearer Token)
 
 | Método | Endpoint   | Descrição                        |
 |--------|------------|----------------------------------|
@@ -94,7 +94,7 @@ A aplicação estará disponível em: `http://localhost:8080`
 
 ---
 
-## 📚 Aprendizados
+##  Aprendizados
 
 Durante o desenvolvimento deste projeto, foram explorados os seguintes conceitos:
 
@@ -107,7 +107,7 @@ Durante o desenvolvimento deste projeto, foram explorados os seguintes conceitos
 
 ---
 
-## 📬 Contato
+##  Contato
 
 Desenvolvido por **Allan Gabriel**
 
